@@ -7,3 +7,14 @@
     justify-content: space-between;
     align-items: center;
  }
+
+ @media screen and (max-width: 767px){
+    .header{
+       min-width: 288px;
+       min-height: 42px;
+       padding: 16px 16px 0;
+       margin: 0;
+    }
+
+
+ }

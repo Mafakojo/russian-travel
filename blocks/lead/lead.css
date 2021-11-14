@@ -1,10 +1,29 @@
 .lead {
     background-color: #2A2C2F;
     max-width: 984px;
-    margin: 0 auto;
+    margin: 56px auto 0;
     padding-bottom: 92px;
     display: flex;
     flex-direction: column;
     align-items: center;
     box-sizing: border-box;
 }
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .lead {
+      padding: 0 48px 92px;
+    }
+  }
+  
+  @media screen and (min-width: 768px) and (max-width: 1023px) {
+    .lead {
+      padding: 0 0 88px;
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+    .lead {
+      padding: 0 0 64px;
+      margin: 48px auto 0;
+    }
+  }
