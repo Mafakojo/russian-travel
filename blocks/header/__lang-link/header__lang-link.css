@@ -1,6 +1,5 @@
 .header__lang-link{
     min-width: 29px;
-    margin-right: 18px;
     font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -8,15 +7,12 @@
     line-height: 28px;
     text-align: right;
     color: #FFFFFF;
+    text-decoration: none;
 }
 
 .header__lang-link:hover{
     transition: opacity .3s ease;
     opacity: 0.8;
-}
-
-.header__lang-link:last-of-type{
-    margin-right: 0;
 }
 
 @media screen and (max-width: 767px) {
