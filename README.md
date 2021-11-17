@@ -4,7 +4,7 @@
 
 "Путешествие по России" - это одностраничный сайт для закрепления результатов обучения адптивной вёрстке Flexbox и Grid layout.
 
-[Проектная работа на GitHub Pages](https://github.com/Mafakojo/russian-travel/index.html)
+[Проектная работа на GitHub Pages](https://mafakojo.github.io/russian-travel/index )
 
 ## Что реализовано:
 
