@@ -10,6 +10,11 @@
     color: #FFFFFF;
 }
 
+.header__lang-link:hover{
+    transition: opacity .3s ease;
+    opacity: 0.8;
+}
+
 .header__lang-link:last-of-type{
     margin-right: 0;
 }

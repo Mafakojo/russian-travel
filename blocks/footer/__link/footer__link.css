@@ -8,3 +8,8 @@
     color: #FFFFFF;
     margin-right: 18px;
 }
+
+.footer__link:hover{
+    transition: opacity .3s ease;
+    opacity: 0.8;
+}
