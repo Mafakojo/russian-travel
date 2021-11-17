@@ -1,17 +1,12 @@
 .lead__title {
     max-width: 720px;
-    max-height: 200px;
     margin: 0 280px 32px;
-
     font-family: Inter;
     font-style: normal;
     font-weight: 900;
     font-size: 96px;
     line-height: 100px;
-    /* or 104% */
-
     text-align: center;
-
     color: #FFFFFF;
 }
 
@@ -22,6 +17,5 @@
         font-size: 40px;
         line-height: 110%;
         margin: 0;
-        /* or 110% */
     }
   }

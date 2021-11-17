@@ -4,8 +4,6 @@
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
-    /* or 106% */
-
     color: #FFFFFF;
     margin: 0;
  }
@@ -14,7 +12,6 @@
    .place__title {
    font-size: 42px;
    line-height: 46px;
-/* or 110% */   
 }
  }
  
