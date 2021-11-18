@@ -10,20 +10,20 @@
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
-.lead {
-  padding: 0 48px 92px;
+  .lead {
+    padding: 0 48px 92px;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-.lead {
-  padding: 0 0 88px;
+  .lead {
+    padding: 0 0 88px;
   }
 }
 
 @media screen and (max-width: 767px) {
-.lead {
-  padding: 0 0 64px;
-  margin: 48px auto 0;
+  .lead {
+    padding: 0 0 64px;
+    margin: 48px auto 0;
   }
 }
