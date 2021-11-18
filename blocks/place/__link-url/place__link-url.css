@@ -1,14 +1,14 @@
 .place__link-url{
-    font-family: Inter, Arial, sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 22px;
-    text-decoration-line: underline;
-    color: #FFFFFF;    
+  font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #FFFFFF;
 }
 
 .place__link-url:hover{
-    transition: opacity .3s ease;
-    opacity: 0.8;
+  transition: opacity .3s ease;
+  opacity: 0.8;
 }
